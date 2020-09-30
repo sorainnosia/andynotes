@@ -1,3 +1,3 @@
 # Release Executable
 
-Android and Windows executable
+Windows executable
